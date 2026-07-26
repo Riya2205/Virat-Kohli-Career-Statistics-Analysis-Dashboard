@@ -34,6 +34,7 @@ Virat Kohli career batting statistics dataset, including innings, runs, average,
 🖼️ Screenshot/ Demo
 
 Shows the dashboard ![Alt text](https://github.com/Riya2205/Virat-Kohli-Career-Statistics-Analysis-Dashboard/blob/main/Virat%20Kohli%20Career%20Stats%20Analysis.png)
+
 Example : ![Dahboard Preview](https://github.com/Riya2205/Virat-Kohli-Career-Statistics-Analysis-Dashboard/blob/main/Virat%20Kohli%20Career%20Stats%20Analysis.png)
 
 
